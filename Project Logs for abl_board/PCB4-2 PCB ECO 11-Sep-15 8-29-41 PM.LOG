@@ -1,0 +1,6 @@
+Change Component Comment : Designator=P3 Old Comment=Header 4 New Comment=Header 5
+Added Pin To Net: NetName=SIG Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=VCC Pin=P3-4
+Change Class Name : Old Net Name=board1 New Net Name=board2
+Added Member To Class: ClassName=board2 Member=Component P3 Header 5
