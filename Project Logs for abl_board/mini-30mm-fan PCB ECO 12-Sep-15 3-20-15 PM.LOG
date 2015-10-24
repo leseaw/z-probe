@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SIG Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-2
+Removed Pin From Net: NetName=VCC Pin=P?-3
+Removed Member From Class: ClassName=board1 Member=P?
+Added Component: Designator=P2(S4B-XH-A(LF)(SN))
+Added Pin To Net: NetName=SIG Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=P2-3
+Added Member To Class: ClassName=board1 Member=Component P2 S4B-XH-A(LF)(SN)

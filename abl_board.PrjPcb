@@ -89,6 +89,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQVQUGXX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for abl_board\Design Rule Check - mini-30mm-fan.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
