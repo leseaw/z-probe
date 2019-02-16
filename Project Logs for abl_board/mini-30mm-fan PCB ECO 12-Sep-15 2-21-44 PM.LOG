@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=SIG Pin=P2-1
-Removed Pin From Net: NetName=GND Pin=P2-3
-Removed Pin From Net: NetName=VCC Pin=P2-4
-Removed Member From Class: ClassName=board1 Member=P2
-Added Component: Designator=P?(HDR1X3)
-Added Pin To Net: NetName=SIG Pin=P?-1
-Added Pin To Net: NetName=GND Pin=P?-2
-Added Pin To Net: NetName=VCC Pin=P?-3
-Added Member To Class: ClassName=board1 Member=Component P? Header 3
